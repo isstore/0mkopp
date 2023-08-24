@@ -1,0 +1,2 @@
+# 0mkopp
+isstore
